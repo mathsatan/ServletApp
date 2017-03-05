@@ -1,0 +1,6 @@
+<dataset>
+    <my_users/>
+
+    <my_rols ROLE_ID="1" NAME="admin"/>
+    <my_rols ROLE_ID="2" NAME="regular_user"/>
+</dataset>

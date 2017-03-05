@@ -1,0 +1,6 @@
+<dataset>
+    <my_users USER_ID="11111" FIRST_NAME="reg" LAST_NAME="reg" LOGIN="reg" PASS="123" EMAIL="reg@mail.ru" BIRTHDAY="1990-02-04" FK_ROLE_ID="2"/>
+
+    <roles ROLE_ID="1" NAME="admin"/>
+    <roles ROLE_ID="2" NAME="regular_user"/>
+</dataset>
